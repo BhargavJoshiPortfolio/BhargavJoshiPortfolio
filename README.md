@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @BhargavJoshiPortfolio
+- 👀 I’m interested in AR/VR/MR development and I seek to improve my knowledge and upskill myself as often as possible, as this is an ever growing field.
+- 🌱 I’m currently learning how to create an immersive and attractive portfolio using github..
+- 📫 How to reach me: Email: bhargavarbeit@gmail.com, Phone: +491797272847
+- ⚡ Fun fact: You cannot be offside when your team has a throw-in in Football! ;p
